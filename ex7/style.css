@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+    color: green;
+}
+.dog {
+    width: 200px;
+    height: 200px;
+    float: right; /* Float the image to the right */
+    margin-left: 15px; /* Add space between the image and the text */
+}
+
+img {
+    display: block;
+}
+.par{
+    float: left;
+    width: calc(100% - 220px);
+}
+.image{
+    float:left;
+
+}
+
+.mm::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+hr {
+    border: solid gray;
+    margin-top: 20px;}
+.logo{
+    width: 30px;
+    height: 30px;
+}
+.fo-logo{
+    float: left;
+}
