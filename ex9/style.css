@@ -1,0 +1,57 @@
+.all{
+    
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    
+    margin: 0;
+    height: 100vh;
+    width: 200vh;
+    
+    
+}
+.out{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+   justify-content: center;
+   align-items: center;
+    border: 15px solid green;
+    box-sizing: border-box;
+    
+    
+    text-align: center;
+    background-color: yellow;
+    
+}
+h1{
+    color: white;
+    justify-content: center;
+    text-align: center;
+
+    
+}
+.in{
+    width: 100%;
+    height: 100%;
+    border: 15px solid yellow;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: green;
+justify-content: center;
+align-items: center;
+}
+.inout{
+    width:100% ;
+    height: 100%;
+    
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: green;
+    padding: 20px;
+
+border: 15 px solid yellow;
+padding: 20px;
+
+}
