@@ -1,0 +1,28 @@
+table{
+    
+    border-collapse: collapse;
+    border: 1;
+    
+    width: 800px;
+}
+th , td{
+    border: solid;
+    padding: 10px;
+    background-color: #d6eaf1:;
+    
+    
+}
+th{
+    background-color: #91c4d5;
+
+
+    
+    
+}
+
+ol{
+    padding: 10px;
+}
+td{
+    background-color: #d6eaf1;
+}
