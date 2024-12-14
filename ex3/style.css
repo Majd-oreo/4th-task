@@ -1,0 +1,41 @@
+body {
+    background-color: #FFFFCC;
+}
+section {
+    width: 50%;
+    margin: 0 auto;
+}
+div {
+    width: 98%;
+    padding: 1%;            
+    align-self: center;
+}
+.title {
+    background-color: #EBDE52;
+}
+.par {
+    float: left;
+    background-color: #FFFFFF;
+    width: 68%;
+    height: 600px;
+    padding: 1%;
+    overflow: hidden;
+}
+.list {
+    float: left;
+    background-color: #E3E3E3;
+    width: 28%;
+    height: 600px;
+    padding: 1%;            
+}
+footer {
+    border: #3e3e3e;
+    clear: both;
+    color: #FFFFFF;
+    background-color: #3e3e3e;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    align-content: start;
+}
