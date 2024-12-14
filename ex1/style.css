@@ -1,0 +1,15 @@
+img{
+   position: fixed;
+   z-index: 10px;
+   top: 0%;
+   right: 0;
+   width: 200px;
+   height: 200px; 
+   margin: 20px; /* Adds spacing between images */
+
+
+}
+.text{
+    margin: auto;
+    
+}
