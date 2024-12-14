@@ -1,0 +1,14 @@
+td{
+    border: 1px solid;
+    border-radius: 10%;
+    -webkit-box-shadow: 0 4px 6px -6px #050505;
+    -moz-box-shadow: 0 4px 6px -6px #110f0f;
+box-shadow: 0 4px 6px -6px #080808;
+
+padding: 10px;
+border-spacing: 10px;
+}
+table{
+    border-spacing: 5px;
+    
+}
