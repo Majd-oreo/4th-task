@@ -1,0 +1,27 @@
+body{
+    background-color: pink;
+}
+
+.left{
+    float: left;
+    width: 15%;
+    border: solid;
+    overflow: hidden;
+    background-color: white;
+    margin: 10px;
+    height: 120px;
+    border: hidden;
+    
+}
+
+.non{
+    float: inline-start;
+    border: 2px solid;
+    border-left:hidden;
+    width: 100%;
+    overflow:scroll;
+    overflow-x: hidden;
+    height: 60px;
+    margin-right: 20px;
+    
+}
